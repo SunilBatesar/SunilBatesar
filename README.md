@@ -22,7 +22,6 @@
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2)](https://linkedin.com/in/sunil-batesar-30b547308)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&color=7289da)](https://discord.com/users/sunilbatesar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2)](https://linkedin.com/in/sunil-batesar-30b547308)
 
 Thanks for visiting my profile!🙃
